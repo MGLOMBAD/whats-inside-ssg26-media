@@ -1,0 +1,1 @@
+Video files for the What's Inside? booth displays (SSG 2026), served by GitHub Pages. Copies of public/assets/video in the Firebase project whats-inside-ssg26; the app falls back to Firebase if these are unreachable. MG Lomb 3D & Interactive.
